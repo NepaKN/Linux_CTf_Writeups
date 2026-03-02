@@ -3,7 +3,7 @@ This repo is about how I completed progressive Capture The Flag Challenges. Test
 
 LEARN TO CLOUD CTF Challenges
 ├── ⭐ Beginner (2 challenges)
-│   ├── 1. The Hidden File – Find and read a hidden file in ctf_challenges 
+│   ├── 1. The Hidden File – Find and read a hidden file in ctf_challenges
 │   └── 2. The Secret File – Locate a file containing "secret" in its name under your home directory
 ├── ⭐⭐ Intermediate (13 challenges)
 │   ├── 3. The Largest Log – Find and read an unusually large file in /var/log
