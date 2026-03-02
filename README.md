@@ -5,7 +5,7 @@ This repo is about how I completed progressive Capture The Flag Challenges. Test
 1. The Hidden File – Uncover a file deliberately concealed with a dot prefix.
 2. The Secret File – Hunt down a file whose name holds the keyword "secret" somewhere in your home directory.
 
-⭐⭐ Intermediate
+⭐⭐ Intermediate  
 3. The Largest Log – Identify an oversized log file that stands out among the rest in /var/log.
 
 4. The User Detective – Examine user accounts to find one with UID 1002 and a flag tucked inside its login config.
