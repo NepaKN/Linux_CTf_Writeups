@@ -36,6 +36,6 @@
 
 12. Network Traffic Analysis – Sniff ICMP packets and extract a secret message stashed in ping payloads.
 
-14. Process Environment – Peek into a running process’s environment variables to grab a hidden flag.
+##### 14. Process Environment – Peek into a running process’s environment variables to grab a hidden flag.
 
-18. Disk Detective – Dive into filesystem metadata—superblocks, inodes, and beyond—to recover a flag not visible in normal listings.
+#### 18. Disk Detective – Dive into filesystem metadata—superblocks, inodes, and beyond—to recover a flag not visible in normal listings.
