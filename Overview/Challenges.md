@@ -1,8 +1,8 @@
-⭐ Beginner
+Beginner
 1. The Hidden File – Uncover a file deliberately concealed with a `dot` prefix.
 2. The Secret File – Hunt down a file whose name holds the keyword "secret" somewhere in your home directory.
 
-⭐⭐ Intermediate
+Intermediate
 
 3. The Largest Log – Identify an oversized `log` file that stands out among the rest in /var/log.
 
@@ -30,7 +30,7 @@
 
 17. History Mystery – Browse command `history` to find a flag that was accidentally typed on the command line.
 
-⭐⭐⭐ Advanced
+Advanced
 
 12. Network Traffic Analysis – Sniff ICMP packets and extract a secret message stashed in ping payloads.
 
