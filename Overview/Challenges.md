@@ -19,7 +19,7 @@
 
 11. Web Configuration – Spot a `web server` listening on an unusual port and correct its configuration.
 
-13. Cron Job Hunter – Inspect `scheduled` tasks to uncover a flag hidden inside a crontab entry.
+13. Cron Job Hunter – Inspect `scheduled` tasks to uncover a flag hidden inside a crontab entry
 
 15. Archive Archaeologist – Dig through layers of `compressed` archives to reach the final plaintext flag.
 
