@@ -5,16 +5,12 @@
   2. The Secret File – Hunt down a file whose name holds the keyword "secret" somewhere in your `~` home directory.
 
 ⭐⭐ Intermediate  
-  3. The Largest Log – Identify an oversized log file that stands out among the rest in /var/log.
+  3. The Largest Log – Identify an oversized log file that stands out among the rest in /var/log. 
   4. The User Detective – Examine user accounts to find one with UID and a flag tucked inside its login config.
-
-5. The Permissive File – Search for a file with dangerously open `permissions` hiding under /opt.
-
-6. The Hidden Service – Probe port 8080 to interact with a service that shouldn't be overlooked.
-
-7. The Encoded Secret – Decode a string that has been obfuscated with a common encoding scheme.
-
-8. SSH Key Authentication – Set up key-based `SSH` access and retrieve a flag left behind by the configuration.
+  5. The Permissive File – Search for a file with dangerously open `permissions` hiding under /opt.
+  6. The Hidden Service – Probe port 8080 to interact with a service that shouldn't be overlooked.
+  7. The Encoded Secret – Decode a string that has been obfuscated with a common encoding scheme.
+  8. SSH Key Authentication – Set up key-based `SSH` access and retrieve a flag left behind by the configuration.
 
 9. DNS Troubleshooting – Repair a broken DNS resolver `file` to restore name resolution and claim the flag.
 
