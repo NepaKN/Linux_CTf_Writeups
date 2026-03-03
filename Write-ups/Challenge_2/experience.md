@@ -1,5 +1,6 @@
-# Where's your shirt?
+# "secret"
 Here in this challenge,
 I used a number of commands to locate the file with its name.
 Here as well, the hint is given in the description as to where the file could be.
+I, during initial days, hand a friction find command, as I went using the command, it became more clearer.
 This went pretty well in searching the file with its name and reading the file and completing one more challenge.
