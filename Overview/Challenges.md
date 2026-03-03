@@ -3,6 +3,7 @@
 2. The Secret File – Hunt down a file whose name holds the keyword "secret" somewhere in your home directory.
 
 ⭐⭐ Intermediate
+
 3. The Largest Log – Identify an oversized log file that stands out among the rest in /var/log.
 
 4. The User Detective – Examine user accounts to find one with UID 1002 and a flag tucked inside its login config.
