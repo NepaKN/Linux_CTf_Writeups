@@ -1,22 +1,2 @@
-LEARN TO CLOUD CTF Challenges
-├── ⭐ Beginner
-│   ├── 1. The Hidden File
-│   └── 2. The Secret File
-├── ⭐⭐ Intermediate
-│   ├── 3. The Largest Log
-│   ├── 4. The User Detective
-│   ├── 5. The Permissive File
-│   ├── 6. The Hidden Service
-│   ├── 7. The Encoded Secret
-│   ├── 8. SSH Key Authentication
-│   ├── 9. DNS Troubleshooting
-│   ├── 10. Remote Upload
-│   ├── 11. Web Configuration
-│   ├── 13. Cron Job Hunter
-│   ├── 15. Archive Archaeologist
-│   ├── 16. Symbolic Sleuth
-│   └── 17. History Mystery
-└── ⭐⭐⭐ Advanced
-    ├── 12. Network Traffic Analysis
-    ├── 14. Process Environment
-    └── 18. Disk Detective
+
+https://chat.deepseek.com/a/chat/s/f5d12f16-1a33-453c-8250-853d2966821d#:~:text=or%20approach%20used.-,%E2%AD%90%20Beginner,whose%20name%20holds%20the%20keyword%20%22secret%22%20somewhere%20in%20your%20home%20directory.,-%E2%AD%90%E2%AD%90%20Intermediate
