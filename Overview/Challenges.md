@@ -1,36 +1,36 @@
 # Overview of all 18 challenges
 
 ## Beginner
-1. The Hidden File – Uncover a file deliberately concealed with a `dot` prefix.
-2. The Secret File – Hunt down a file whose name holds the keyword "secret" somewhere in your home directory.
+##### 1. The Hidden File – Uncover a file deliberately concealed with a `dot` prefix.
+##### 2. The Secret File – Hunt down a file whose name holds the keyword "secret" somewhere in your home directory.
 
 ## Intermediate
 
-3. The Largest Log – Identify an oversized `log` file that stands out among the rest in /var/log.
+##### 3. The Largest Log – Identify an oversized `log` file that stands out among the rest in /var/log.
 
-4. The User Detective – Examine `user accounts` to find one with UID and a flag tucked inside its login config.
+##### 4. The User Detective – Examine `user accounts` to find one with UID and a flag tucked inside its login config.
 
-5. The Permissive File – Search for a file with dangerously open `perm`issions hiding under /opt.
+##### 5. The Permissive File – Search for a file with dangerously open `perm`issions hiding under /opt.
 
-6. The Hidden Service – Probe port 8080 to interact with a service that shouldn't be overlooked.
+##### 6. The Hidden Service – Probe port 8080 to interact with a service that shouldn't be overlooked.
 
-7. The Encoded Secret – Decode a string that has been obfuscated with a common encoding scheme.
+##### 7. The Encoded Secret – Decode a string that has been obfuscated with a common encoding scheme.
 
-8. SSH Key Authentication – Set up key-based `SSH` access and retrieve a flag left behind by the configuration.
+##### 8. SSH Key Authentication – Set up key-based `SSH` access and retrieve a flag left behind by the configuration.
 
-9. DNS Troubleshooting – Repair a broken DNS resolver file to restore name resolution and claim the flag.
+##### 9. DNS Troubleshooting – Repair a broken DNS resolver file to restore name resolution and claim the flag.
 
-10. Remote Upload – Transfer any file to a designated location and watch the flag appear.
+##### 10. Remote Upload – Transfer any file to a designated location and watch the flag appear.
 
-11. Web Configuration – Spot a `web server` listening on an unusual port and correct its configuration.
+##### 11. Web Configuration – Spot a `web server` listening on an unusual port and correct its configuration.
 
-13. Cron Job Hunter – Inspect `scheduled` tasks to uncover a flag hidden inside a crontab entry.
+##### 13. Cron Job Hunter – Inspect `scheduled` tasks to uncover a flag hidden inside a crontab entry.
 
-15. Archive Archaeologist – Dig through layers of `compressed` archives to reach the final plaintext flag.
+##### 15. Archive Archaeologist – Dig through layers of `compressed` archives to reach the final plaintext flag.
 
-16. Symbolic Sleuth – Trace a chain of symbolic `links` until you reach the actual file containing the flag.
+##### 16. Symbolic Sleuth – Trace a chain of symbolic `links` until you reach the actual file containing the flag.
 
-17. History Mystery – Browse command `history` to find a flag that was accidentally typed on the command line.
+##### 17. History Mystery – Browse command `history` to find a flag that was accidentally typed on the command line.
 
 ## Advanced
 
