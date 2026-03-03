@@ -6,6 +6,7 @@ Beginner
 
 Intermediate  
   3. The Largest Log – Identify an oversized log file that stands out among the rest in /var/log.
+ 
   4. The User Detective – Examine user accounts to find one with UID and a flag tucked inside its 
       login config.
 5. The Permissive File – Search for a file with dangerously open `permissions` hiding under /opt.
