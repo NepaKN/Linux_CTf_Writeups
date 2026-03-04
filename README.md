@@ -1,7 +1,7 @@
 # Linux_CTF_Writeups
-Here, I am sharing the my experience of`Capture The Flag Challenges`.
+Here, I am sharing the my experience of`Capture The Flag Challenges`
 Testing the Linux command line skills.
-I am not sharing the `solutions`. You definitely have distinct experience even you walk the same path. Experience the way as you go.
+You definitely have distinct experience even you walk the same path. Experience the way as you go.
 These 18 challenges, checks your perseverance. 
 This really gives you a self-check, how you keep searching despite the level of difficulty increases.
 In my experience, CLI is an open-book. You are left with countless possibilities to explore and create & yet it leaves you blank.
